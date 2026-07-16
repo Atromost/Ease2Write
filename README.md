@@ -50,6 +50,7 @@ Instead of writing every word completely, I shorten common words, use symbols wh
 | homework | hw |
 | revision | rev |
 |wait | W8 |
+|fine|F9|
 
 ## Symbols
 
